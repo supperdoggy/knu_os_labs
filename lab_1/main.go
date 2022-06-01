@@ -1,9 +1,3 @@
-/*
-The classical Dining philosophers problem.
-
-Implemented with forks (aka chopsticks) as mutexes.
-*/
-
 package main
 
 import (
